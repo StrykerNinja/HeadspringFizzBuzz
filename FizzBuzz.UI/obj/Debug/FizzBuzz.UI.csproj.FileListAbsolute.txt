@@ -1,0 +1,9 @@
+D:\VSProjects\Sandbox\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.UI.exe.config
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.UI\bin\Debug\FizzBuzz.UI.exe.config
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.UI\bin\Debug\FizzBuzz.UI.exe
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.UI\bin\Debug\FizzBuzz.UI.pdb
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.UI\bin\Debug\FizzBuzz.Awesome.dll
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.UI\bin\Debug\FizzBuzz.Awesome.pdb
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.UI\obj\Debug\FizzBuzz.UI.csprojResolveAssemblyReference.cache
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.UI\obj\Debug\FizzBuzz.UI.exe
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.UI\obj\Debug\FizzBuzz.UI.pdb

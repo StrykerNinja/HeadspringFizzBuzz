@@ -1,0 +1,4 @@
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.Awesome\bin\Debug\FizzBuzz.Awesome.dll
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.Awesome\bin\Debug\FizzBuzz.Awesome.pdb
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.Awesome\obj\Debug\FizzBuzz.Awesome.dll
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.Awesome\obj\Debug\FizzBuzz.Awesome.pdb

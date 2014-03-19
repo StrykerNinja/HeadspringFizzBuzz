@@ -1,0 +1,9 @@
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.Awesome.Tests\obj\Debug\FizzBuzz.Awesome.Tests.csprojResolveAssemblyReference.cache
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.Awesome.Tests\bin\Debug\FizzBuzz.Awesome.Tests.dll
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.Awesome.Tests\bin\Debug\FizzBuzz.Awesome.Tests.pdb
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.Awesome.Tests\bin\Debug\FizzBuzz.Awesome.dll
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.Awesome.Tests\bin\Debug\nunit.framework.dll
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.Awesome.Tests\bin\Debug\FizzBuzz.Awesome.pdb
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.Awesome.Tests\bin\Debug\nunit.framework.xml
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.Awesome.Tests\obj\Debug\FizzBuzz.Awesome.Tests.dll
+D:\VSProjects\Sandbox\FizzBuzz.Awesome\FizzBuzz.Awesome.Tests\obj\Debug\FizzBuzz.Awesome.Tests.pdb
